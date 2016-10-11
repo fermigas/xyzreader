@@ -41,7 +41,7 @@ proguard/
 
 ###  Java ###
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.ear
 
